@@ -1,0 +1,2 @@
+# ShortcutApp
+my first project
